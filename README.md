@@ -1,18 +1,18 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnNmZHN6bm45ajNiYjJoczJpanpidmN6ZHc0dDE0YXYwa2xxYWhtZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif"  />
 </div>
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">👋 Welcome!!!</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">About Me</h3>
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm currently a senior computer information systems major from Manhattan University.</p>
 
 ###
 
