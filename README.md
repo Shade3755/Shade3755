@@ -31,5 +31,11 @@
   <img width="12" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/git" height="40" alt="git" />
   <img width="12" />
+  <img height="32" width="32" src="https://github.com/Shade3755/Shade3755/blob/465fec32713f8470b1193316937ec7beb7822caf/MySQL.png" height="40" alt="git" />
+  <img width="12" />
+  <img height="32" width="32" src="https://github.com/Shade3755/Shade3755/blob/465fec32713f8470b1193316937ec7beb7822caf/ibis%201.jpg" height="40" alt="git" />
+  <img width="12" />
+  <img height="32" width="32" src="https://github.com/Shade3755/Shade3755/blob/465fec32713f8470b1193316937ec7beb7822caf/taipy.png" height="40" alt="git" />
+  <img width="12" />
 </div>
 
